@@ -1,20 +1,90 @@
-# Hi I'm Pankaj Kumar Singh
+<h1 align="center">Hi 👋, I'm Pankaj Kumar Singh</h1>
+<h3 align="center">Data Scientist | ML Engineer | Azure DP-100 Certified</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pankaj-kumar-singh-1a4676249/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/PankajK10168511) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pkumar456439@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pankaj Kumar Singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Pankaj Kumar Singh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pankaj Kumar Singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pankaj Kumar Singh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="mailto:pkumar456439@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pankaj-kumar-singh-1a4676249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://singhkumarpankaj.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pankaj Kumar Singh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+I'm an **Data Scientist** based in Noida, India, with a B.Tech in Computer Science and 8 months of hands-on internship experience building and deploying production-grade ML systems.
+
+- 🔭 Currently building end-to-end ML pipelines and deploying models with **Flask & Docker**
+- 🌱 Deepening expertise in **Deep Learning** and **Cloud ML on Azure**
+- 💼 Former **Data Science Intern @ PW Skills (PhysicsWallah)**
+- 🏅 **Microsoft Azure Data Scientist Associate (DP-100)** | **IBM Data Science Certified**
+- 📫 Reach me at **pkumar456439@gmail.com**
+- ⚡ Fun fact: I reduced data inconsistencies by 30% and improved forecast accuracy by 15% in production
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Libraries**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=xgboost&logoColor=white)
+
+**Visualization**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Cloud, DevOps & Tools**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔩 [Wafer Fault Detection](https://github.com/singhkumarpankaj/wafer-fault-detection)
+> Python • Scikit-learn • Flask • Docker • MongoDB • GitHub Actions
+
+- Built an ML classification model to detect faulty semiconductor wafers from sensor data
+- Achieved **94% accuracy** with advanced preprocessing and class balancing techniques
+- Deployed as a Flask web app containerized with Docker and automated via GitHub Actions
+
+---
+
+### 💎 [Diamond Price Prediction](https://github.com/singhkumarpankaj/diamond-price-prediction)
+> Python • XGBoost • Flask
+
+- Designed a predictive pricing model using features like carat, cut, color, clarity, depth & table
+- Achieved **15% improvement** in pricing accuracy using Random Forest and Gradient Boosting
+- Performed rigorous EDA, feature selection, and categorical encoding for model stability
+
+---
+
+### 💳 [Credit Card Fraud Detection](https://github.com/singhkumarpankaj/credit-card-fraud-detection)
+> Python • XGBoost • Random Forest • SMOTE • Scikit-learn
+
+- Analyzed **280,000+ imbalanced transaction records** to detect fraudulent activity
+- Applied **SMOTE** to balance minority classes and boost model training performance
+- Achieved **99% precision and recall** with Logistic Regression, Random Forest & XGBoost
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=singhkumarpankaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=singhkumarpankaj&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=singhkumarpankaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=singhkumarpankaj&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
