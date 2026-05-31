@@ -1,5 +1,4 @@
-# 💫 About Me:
-Ask me about
+# Hi I'm Pankaj Kumar Singh
 
 
 ## 🌐 Socials:
